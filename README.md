@@ -1,4 +1,4 @@
-# app
+# Flutter Woocommerce
 
 A new Flutter application.
 
